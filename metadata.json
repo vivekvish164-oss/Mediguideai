@@ -1,0 +1,7 @@
+{
+  "name": "MediguideAI",
+  "description": "AI-powered healthcare appointment booking platform connecting patients, doctors, and administrators with intelligent symptom triage, digital prescriptions, and telemedicine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
